@@ -1,0 +1,10 @@
+import { Component, OnInit } from '@angular/core';
+
+@Component({
+  selector: 'sucursal',
+  templateUrl: './sucursal.component.html',
+  styleUrls: ['./sucursal.component.scss']
+})
+
+export class SucursalComponent {
+}
