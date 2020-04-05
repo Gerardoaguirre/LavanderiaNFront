@@ -13,9 +13,9 @@ import { ClienteComponent } from './Cliente.component';
   ],
   imports: [
     ClienteRoutingModule,
-    BrowserModule,
-    CommonModule,
-    RouterModule,
+    // BrowserModule,
+    // CommonModule,
+    // RouterModule,
     MenuModule
     // AppRoutingModule
   ],

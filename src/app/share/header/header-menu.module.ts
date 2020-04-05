@@ -9,7 +9,7 @@ import { HeaderMenuComponent } from './header-menu.component';
     HeaderMenuComponent
   ],
   imports: [
-    BrowserModule
+    // BrowserModule
     // AppRoutingModule
   ],
   exports:[

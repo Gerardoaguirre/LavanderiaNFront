@@ -1,15 +1,17 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { SucursalRoutingModule } from './Sucursal-routing.module';
+import { SucursalComponent } from './Sucursal.component';
 
 // import { AppRoutingModule } from './app-routing.module';
 
 @NgModule({
   declarations: [
     // FooterComponent
+    SucursalComponent
   ],
   imports: [
-    BrowserModule,
+    // BrowserModule,
     SucursalRoutingModule
     // AppRoutingModule
   ],
